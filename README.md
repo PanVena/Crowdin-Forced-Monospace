@@ -12,11 +12,13 @@
 * [Tampermonkey](https://www.tampermonkey.net/) *(рекомендовано)*
 * [Violentmonkey](https://violentmonkey.github.io/get-it/)
 
-**Крок 2: Встановіть сам скрипт** 1. Натисніть на це посилання: **[👉 Встановити скрипт](https://raw.githubusercontent.com/PanVena/Crowdin-Forced-Monospace/main/Crowdin-Talos-Monospace.user.js)** *(Увага: переконайтеся, що файл у репозиторії називається саме так).*
+**Крок 2: Встановіть сам скрипт** 
+1. Натисніть на це посилання: **[👉 Встановити скрипт](https://raw.githubusercontent.com/PanVena/Crowdin-Forced-Monospace/main/Crowdin-Talos-Monospace.user.js)**.
 2. Відкриється вікно вашого менеджера (Tampermonkey/Violentmonkey).
 3. Натисніть кнопку **Install** (або "Встановити").
 
-**Крок 3: Перевірка** 1. Відкрийте [сторінку перекладу на Crowdin](https://uk.crowdin.com/editor/the-talos-principle-ukr).
+**Крок 3: Перевірка** 
+1. Відкрийте [сторінку перекладу на Crowdin](https://uk.crowdin.com/editor/the-talos-principle-ukr).
 2. Оновіть сторінку (**F5**).
 3. Готово! Шрифт у полях джерела та перекладу стане схожим на код, а всі пробіли вирівняються.
 
